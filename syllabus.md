@@ -138,7 +138,7 @@ I reserve the right to specify that late submissions will not be accepted for pa
 
 |Week |Date|Topic| Textbook Reading|
 |---|---|---|---|
-|1| Aug 29, Sep 31| Introduction, What's Vis and Why Do It? | Ch 1|
+|1| Aug 29, 31| Introduction, What's Vis and Why Do It? | Ch 1|
 |2| Sep 5, 7| Data and Data Cleaning | Ch 2|
 |3| Sep 12, 14| Marks and Channels | Ch 5|
 |4| Sep 19, 21 |Arrange Tables | Ch 7|
