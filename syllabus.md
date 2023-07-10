@@ -10,7 +10,7 @@
 
 **Comparison to CS 725/825:** If you have already taken CS 725/825, then CS 625 is not appropriate for you. CS 625 is a prerequisite to CS 725/825.
 
-**Differences from Previous Semesters:** There are two main changes that we are instiuting this semester:
+**Differences from Previous Semesters:** There are two main changes that we are instituting this semester:
 
 * We are replacing R with Python to be consistent with other courses in the Data Science program.
 * Students in the MS in Computer Science program will be required to complete at least two assignments in Python or Vega-Lite. You may not complete the full course without doing some programming.
