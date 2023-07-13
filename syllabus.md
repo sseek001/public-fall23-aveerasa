@@ -1,6 +1,6 @@
 # CS 625, Fall 2023 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs625-datavis/public/raw/main/Spr23/syllabus.pdf)
+[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs625-datavis/public-fall23/raw/main/syllabus.pdf)
 
 ## Course Overview
 
@@ -17,9 +17,15 @@
 
 ## Instructor Contact and Office Hours
 
-Dr. Michele Weigle: mweigle at cs.odu.edu
+[Dr. Michele Weigle](https://www.cs.odu.edu/~mweigle/), mweigle at cs.odu.edu
 
-My office hours will be **TBA** via Zoom or by appointment. See Canvas for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+Office hours are times that I set aside each week to meet with students and answer questions. No appointment is necessary. 
+
+My office hours will be:
+* in person (ECSB 3327): **TBA**
+* via Zoom: **TBA**, see Canvas for the link / students will be placed into the waiting room if I am already meeting with another student. 
+
+If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
 ## Course Objectives
 
@@ -43,7 +49,7 @@ This course will be organized based on the "flipped classroom" model. Students w
 
 This section (CRN 23408) will be delivered face-to-face in a traditional classroom. Tues/Thurs 11am-12:15pm, BAL 2063.
 
-All course materials will be made available in Canvas or via GitHub.
+All course materials will be made available in Canvas (<https://canvas.odu.edu/courses/140707>) or via GitHub (<https://github.com/odu-cs625-datavis/public-fall23>).
 
 ## Requirements
 
@@ -79,13 +85,10 @@ Your grade in this class will be based on the following components:
 
 * in addition to being present, students are expected to be prepared to talk about examples and figures in the required readings, explain learning checks, discuss their homework submissions, and participate in online discussions
 * will receive points (0-2) for each week of class
-* in-class rubric:
+* rubric:
   * 0 - no participation during the week
   * 1 - late to class or not prepared to participate
   * 2 - on time to class and actively participating in discussions and in-class work
-* online rubric:
-  * 0 - no access of the class recording before the next class meeting or participation in online discussions
-  * 2 - watched the class recording before the next class meeting and actively participating in online discussions
 
 **Learning Checks** - 10%
 
@@ -132,7 +135,7 @@ I reserve the right to specify that late submissions will not be accepted for pa
 
 ## Summary Schedule
 
-*Note: This is a tentative schedule and may change during the semester. The complete schedule with assignments and due dates is posted on Canvas.*
+*Note: This is a tentative schedule and may change during the semester. The complete schedule with assignments and due dates will be posted on Canvas.*
 
 [ODU Fall 2023 academic schedule](https://www.odu.edu/academics/calendar/fall)
 
@@ -160,11 +163,11 @@ I reserve the right to specify that late submissions will not be accepted for pa
 
 Each student must check the class Canvas site and email daily. You should use our class Canvas Discussion Board to ask and answer general course-related questions. I will use Canvas Announcements to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
 
-### Attendance (in-person and online students)
+### Attendance
 
 Since much of the course is based on discussion and in-class work, I expect you to arrive on time for class. Your grade will be affected if you are consistently tardy. If you have to miss a class, you are responsible checking the course Canvas site to find any assignments or notes you may have missed. Students may leave after 15 minutes if the instructor or a guest lecturer does not arrive in that time.
 
-If there are days on which the scheduled class meeting time is cancelled due to weather, there may still be assignments made and due. A post will be made to Canvas Announcements whenever the class meeting is cancelled.
+If there are days on which the scheduled class meeting time is cancelled due to weather or other events, there may still be assignments made and due. A post will be made to Canvas Announcements whenever the class meeting is cancelled.
 
 ### Classroom Conduct
 
@@ -176,7 +179,7 @@ Make-ups for graded activities are possible only with a valid written medical or
 
 ### Disability Services
 
-In compliance with PL94-142 and more recent federal legislation affirming the rights of disabled individuals, provisions will be made for students with special needs on an individual basis. The student must have been identified as special needs by the university and an appropriate letter must be provided to the course instructor. Provision will be made based upon written guidelines from the University's [Office of Educational Accessibility](http://www.odu.edu/educationalaccessibility). All students are expected to fulfill all course requirements.
+In compliance with PL94-142 and more recent federal legislation affirming the rights of disabled individuals, provisions will be made for students with special needs on an individual basis. The student must have been identified as special needs by the university and an appropriate letter must be provided to the course instructor. Provision will be made based upon written guidelines from the University's [Office of Educational Accessibility](https://www.odu.edu/accessibility). All students are expected to fulfill all course requirements.
 
 Students are encouraged to self-disclose disabilities that have been verified by the Office of Educational Accessibility by providing Accommodation Letters to their instructors early in the semester in order to start receiving accommodations. Accommodations will not be made until the Accommodation Letters are provided to instructors each semester.
 
@@ -186,7 +189,7 @@ The course Canvas site should be your first reference for questions about the cl
 
 ## Academic Integrity
 
-Old Dominion University is committed to students' personal and academic success. In order to achieve this vision, students, faculty, and staff work together to create an environment that provides the best opportunity for academic inquiry and learning. All students must be honest and forthright in their academic studies. Your work in this course and classroom behavior must align with the expectations outlined in the Code of Student Conduct, which can be found at <https://www.odu.edu/oscai>.
+Old Dominion University is committed to students' personal and academic success. In order to achieve this vision, students, faculty, and staff work together to create an environment that provides the best opportunity for academic inquiry and learning. All students must be honest and forthright in their academic studies. Your work in this course and classroom behavior must align with the expectations outlined in the Code of Student Conduct, which can be found at <https://odu.edu/oscai>.
 
 The following behaviors along with classroom disruptions violate this policy, corrupt the educational process, and will not be tolerated.
 
@@ -203,10 +206,10 @@ Students may still provide legitimate assistance to one another. You are encoura
 
 All students are responsible for knowing the rules. If you are unclear about whether a certain activity is allowed or not, please contact the instructor.
 
-More information on academic integrity is available on the ODU [academic integrity page](https://www.odu.edu/oscai).
+More information on academic integrity is available on the ODU [academic integrity page](https://odu.edu/oscai).
 
 ## Statement from ODU Counseling Services
 
-ODU’s [Office of Counseling Services](http://www.odu.edu/counselingservices) (OCS, 1526 Webb University Center) is a university agency with competent, diverse, and multidisciplinary professional staff. We are committed to supporting the emotional well-being, social development, and academic progress of all students at Old Dominion University.
+ODU’s [Office of Counseling Services](https://odu.edu/counselingservices) (OCS, 1526 Webb University Center) is a university agency with competent, diverse, and multidisciplinary professional staff. We are committed to supporting the emotional well-being, social development, and academic progress of all students at Old Dominion University.
 
-College life can be a wonderful time of self-discovery, but for many, it is also a time when the awareness of mental health conditions increases. OCS services are available to assist with addressing mental health concerns that a student may be experiencing. You can learn more about the broad range of confidential mental health services available on campus via our website at <http://www.odu.edu/counselingservices>. All services are free to ODU students.
+College life can be a wonderful time of self-discovery, but for many, it is also a time when the awareness of mental health conditions increases. OCS services are available to assist with addressing mental health concerns that a student may be experiencing. You can learn more about the broad range of confidential mental health services available on campus via our website at <https://odu.edu/counselingservices>. All services are free to ODU students.
