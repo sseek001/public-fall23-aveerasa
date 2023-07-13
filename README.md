@@ -3,7 +3,7 @@
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Course Materials on Canvas](https://canvas.odu.edu/courses/125570/pages/welcome-to-cs-625)
+* [Course Materials on Canvas](https://canvas.odu.edu/courses/140707)
 * [Topic Objectives](objectives.md)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
   * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
