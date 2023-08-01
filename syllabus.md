@@ -49,7 +49,7 @@ This course will be organized based on the "flipped classroom" model. Students w
 
 This section (CRN 23408) will be delivered face-to-face in a traditional classroom. Tues/Thurs 11am-12:15pm, BAL 2063.
 
-All course materials will be made available in Canvas (<https://canvas.odu.edu/courses/140707>) or via GitHub (<https://github.com/odu-cs625-datavis/public-fall23>).
+All course materials will be made available in Canvas (<https://canvas.odu.edu/courses/140707>) or via GitHub (<https://github.com/odu-cs625-datavis/public-fall23-mcw>).
 
 ## Requirements
 
@@ -70,8 +70,8 @@ The required textbook for this course is [*Visualization Analysis and Design*](h
 
 You will be required to write clearly about your visualization designs and design process. For writing help, I always suggest two inexpensive books:
 
-* Writing for Computer Science by Justin Zobel
-* The Elements of Style by Strunk and White
+* *Writing for Computer Science* by Justin Zobel
+* *The Elements of Style* by Strunk and White
 
 In addition, see the online student resources collected on Dr. Weigle's website: [New Student Resources page](https://weiglemc.github.io/new-student/#writing).
 
@@ -145,17 +145,17 @@ I reserve the right to specify that late submissions will not be accepted for pa
 |2| Sep 5, 7| Data and Data Cleaning | Ch 2|
 |3| Sep 12, 14| Marks and Channels | Ch 5|
 |4| Sep 19, 21 |Arrange Tables | Ch 7|
-|5| Sep 26, 28| Arrange Tables (continued) | Ch 7|
-|6| Oct 3, 5| Map Color and Other Channels | Ch 10|
-|7| Tue, Oct 10<br/>Thu, Oct 12| **NO CLASS - Fall Break**<br/>Review for Mid-Term Exam| |
-|8| Tue, Oct 17<br/>Thu, Oct 19| **MID-TERM EXAM**<br/>**NO CLASS**| |
-|9| Oct 24, 26| Reduce Items | Ch 13 (through 13.4.1)
-|10| Oct 31, Nov 2| Exploratory Data Analysis (EDA)
-|11| Tue, Nov 7<br/>Thu, Nov 9| **NO CLASS - Election Day**<br/>Storytelling Vis| |
-|12| Nov 14, 16| Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
-| | Nov 21, 23|**NO CLASS - Thanksgiving Break** | |
-|13| Nov 28, 30| Multiple Views | Ch 12 (skip 12.4.4)
-|14| Dec 5, 7| Manipulate View | Ch 11 (through 11.5)|
+|5| Sep 26, 28| Tour through the Visualization Zoo | |
+|6| Tue, Oct 3<br/>Thu, Oct 5| Map Color and Other Channels<br/>Review for Mid-Term Exam | Ch 10|
+|7| Tue, Oct 10<br/>Thu, Oct 12| **NO CLASS - Fall Break**<br/>**MID-TERM EXAM**| |
+|8| Oct 17, 19| Maps, Rules of Thumb, Chart Design| Ch 6, Ch 8.1-8.3|
+|9| Oct 24, 26| Reduce Items, Exploratory Data Analysis (EDA) | Ch 13 (through 13.4.1)
+|10| Oct 31, Nov 2| Storytelling Vis |
+|11| Tue, Nov 7<br/>Thu, Nov 9| **NO CLASS - Election Day**<br/>**NO CLASS - *Work on Project***| |
+|12| Nov 14, 16| Visualization Literacy |
+|13| Tue, Nov 21<br/>Thu, Nov 23|**NO CLASS - *Work on Project***<br/>**NO CLASS - Thanksgiving Break** | |
+|14| Nov 28, 30| Multiple Views | Ch 12 (skip 12.4.4)
+|15| Dec 5, 7| Manipulate View | Ch 11 (through 11.5)|
 
 ## Course Policies
 
