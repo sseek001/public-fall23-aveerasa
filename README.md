@@ -11,20 +11,21 @@
 
 ## Summary Schedule
 
-|Week |Date|Topic| Textbook Reading|
+|Week |Date|Topic| Resources and Assignments|
 |---|---|---|---|
-|1| Aug 29, Sep 31| Introduction, What's Vis and Why Do It? | Ch 1|
-|2| Sep 5, 7| Data and Data Cleaning | Ch 2|
-|3| Sep 12, 14| Marks and Channels | Ch 5|
-|4| Sep 19, 21 |Arrange Tables | Ch 7|
-|5| Sep 26, 28| Arrange Tables (continued) | Ch 7|
-|6| Oct 3, 5| Map Color and Other Channels | Ch 10|
-|7| Tue, Oct 10<br/>Thu, Oct 12| **NO CLASS - Fall Break**<br/>Review for Mid-Term Exam| |
-|8| Tue, Oct 17<br/>Thu, Oct 19| **MID-TERM EXAM**<br/>**NO CLASS**| |
-|9| Oct 24, 26| Reduce Items | Ch 13 (through 13.4.1)
-|10| Oct 31, Nov 2| Exploratory Data Analysis (EDA)
-|11| Tue, Nov 7<br/>Thu, Nov 9| **NO CLASS - Election Day**<br/>Storytelling Vis| |
-|12| Nov 14, 16| Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
-| | Nov 21, 23|**NO CLASS - Thanksgiving Break** | |
-|13| Nov 28, 30| Multiple Views | Ch 12 (skip 12.4.4)
-|14| Dec 5, 7| Manipulate View | Ch 11 (through 11.5)|
+|1| Aug 29, Sep 31| Introduction, What's Vis and Why Do It? | HW1 - Setup|
+|2| Sep 5, 7| Data and Data Cleaning | Google Colab example<br/>OpenRefine tutorial<br/>HW2 - Data Cleaning|
+|3| Sep 12, 14| Marks and Channels | Vega-Lite Notes and References<br/>Vega-Lite tutorial in Observable<br/>Python Vis tutorial in Google Colab|
+|4| Sep 19, 21 |Arrange Tables | Arrange Tables examples<br/>HW3 - Re-Create Charts|
+|5| Sep 26, 28| Tour through the Visualization Zoo | Arrange Tables exercises|
+|6| Tue, Oct 3<br/>Thu, Oct 5| Map Color and Other Channels<br/>*Review for Mid-Term Exam* | HW4 - Arrange Tables|
+|7| Tue, Oct 10<br/>Thu, Oct 12| **NO CLASS - Fall Break**<br/>**MID-TERM EXAM**| |
+|8| Oct 17, 19| Maps, Rules of Thumb, Chart Design| |
+|9| Oct 24, 26| Reduce Items, Exploratory Data Analysis (EDA) | HW5 - Analyzing Data Using Distribution Charts|
+|10| Oct 31, Nov 2| Storytelling Vis| Python Annotations Examples<br/>Vega-Lite Annotations Examples<br/>Project|
+|11| Tue, Nov 7<br/>Thu, Nov 9| **NO CLASS - Election Day**<br/>**NO CLASS - *Work on Project***| |
+|12| Nov 14, 16| Visualization Literacy||
+|13 | Tue, Nov 21<br/>Thu, Nov 23|**NO CLASS - *Work on Project***<br/>**NO CLASS - Thanksgiving Break** | |
+|14| Nov 28, 30| Multiple Views | Strategies for Managing Complexity<br/>Vega-Lite Multi-View Composition Examples<br/>Vega-Lite Trellis Plot Examples|
+|15| Dec 5, 7| Manipulate View | Vega-Lite Interaction Examples|
+|| Fri, Dec 8|	*last day of classes*
