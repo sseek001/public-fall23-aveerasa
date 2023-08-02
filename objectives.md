@@ -1,4 +1,4 @@
-# CS625 Topic Objectives
+# CS 625 Topic Objectives
 
 ## Chapter 1 - Introduction
 
