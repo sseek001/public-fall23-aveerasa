@@ -8,7 +8,7 @@
 * Give an example of a visualization idiom.
 * Explain why it is best to consider multiple alternatives for vis before selecting a solution.
 * Explain at a high-level the "why-what-how" framework for analyzing visualization use.
-* Differentiate between Vega-Lite, D3, and Tableau and describe the type of tasks for which each tool might be most appropriate.
+* Differentiate between Seaborn, Vega-Lite, D3, and Tableau and describe the type of tasks for which each tool might be most appropriate.
 
 ## Chapter 2 - Data
 
