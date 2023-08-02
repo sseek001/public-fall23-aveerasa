@@ -13,7 +13,7 @@
 
 |Week |Date|Topic| Resources and Assignments|
 |---|---|---|---|
-|1| Aug 29, Sep 31| Introduction, What's Vis and Why Do It? | HW1 - Setup|
+|1| Aug 29, 31| Introduction, What's Vis and Why Do It? | HW1 - Setup|
 |2| Sep 5, 7| Data and Data Cleaning | Google Colab example<br/>OpenRefine tutorial<br/>HW2 - Data Cleaning|
 |3| Sep 12, 14| Marks and Channels | Vega-Lite Notes and References<br/>Vega-Lite tutorial in Observable<br/>Python Vis tutorial in Google Colab|
 |4| Sep 19, 21 |Arrange Tables | Arrange Tables examples<br/>HW3 - Re-Create Charts|
