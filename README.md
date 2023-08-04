@@ -18,14 +18,14 @@
 |3| Sep 12, 14| Marks and Channels |Ch 5| |
 |4| Sep 19, 21 |Arrange Tables | Ch 7 | HW3 - Re-Create Charts|
 |5| Sep 26, 28| Tour through the Visualization Zoo ||
-|6| Tue, Oct 3<br/>Thu, Oct 5| Map Color and Other Channels<br/>*Review for Mid-Term Exam* | Ch 10 | HW4 - Arrange Tables|
-|7| Tue, Oct 10<br/>Thu, Oct 12| **NO CLASS - Fall Break**<br/>**MID-TERM EXAM**| |
-|8| Oct 17, 19| Maps, Rules of Thumb, Chart Design| Ch 6<br/>Ch 8.1-8.3 | |
+|6| Oct 3, 5| Tue: Map Color and Other Channels<br/>Thu: *Review for Mid-Term Exam* | Ch 10 | HW4 - Arrange Tables|
+|7| Oct 10, 12| Tue: **NO CLASS - Fall Break**<br/>Thu: **MID-TERM EXAM**| |
+|8| Oct 17, 19| Maps, Rules of Thumb, Chart Design| Ch 8.1-8.3<br/>Ch 6 | |
 |9| Oct 24, 26| Reduce Items, Exploratory Data Analysis (EDA) | Ch 13<br/>(through 13.4.1) | HW5 - Analyzing Data Using Distribution Charts|
 |10| Oct 31, Nov 2| Storytelling Vis| | Project|
-|11| Tue, Nov 7<br/>Thu, Nov 9| **NO CLASS - Election Day**<br/>**NO CLASS - *Work on Project***| |
+|11| Nov 7, 9|Tue: **NO CLASS - Election Day**<br/>Thu: **NO CLASS - *Work on Project***| |
 |12| Nov 14, 16| Visualization Literacy||
-|13 | Tue, Nov 21<br/>Thu, Nov 23|**NO CLASS - *Work on Project***<br/>**NO CLASS - Thanksgiving Break** | |
+|13 |Nov 21, 23|Tue: **NO CLASS - *Work on Project***<br/>Thu: **NO CLASS - Thanksgiving Break** | |
 |14| Nov 28, 30| Multiple Views | Ch 12<br/>(skip 12.4.4) | |
 |15| Dec 5, 7| Manipulate View | Ch 11<br/>(through 11.5) | |
 || Fri, Dec 8|	*last day of classes* | |
