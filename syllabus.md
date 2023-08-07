@@ -61,10 +61,10 @@ Additionally, if you choose to use certain APIs (not required), you should be fa
 
 ### Course Materials
 
-The required textbook for this course is [*Visualization Analysis and Design*](http://www.cs.ubc.ca/~tmm/vadbook/) by Tamara Munzner
+The required textbook for this course is [*Visualization Analysis and Design*](http://www.cs.ubc.ca/~tmm/vadbook/) by Tamara Munzner ([online version accesssible for free via ODU](https://go.oreilly.com/old-dominion-university//library/view/visualization-analysis-and/9781466508910/))
 
-* [online version accesssible for free via ODU](https://go.oreilly.com/old-dominion-university//library/view/visualization-analysis-and/9781466508910/)
-* includes author's slides from half-day and full-day tutorials, PDF versions of all figures
+* website includes author's slides from half-day and full-day tutorials, PDF versions of all figures
+* author's full set of slides ([vadallslides-2021.pdf](https://www.cs.ubc.ca/~tmm/talks/vad/vadallslides-2021.pdf)), will be referenced in class
 * [textbook errata](http://www.cs.ubc.ca/~tmm/vadbook/errata.html)
 * [author's keynote at d3.unconf](https://www.youtube.com/watch?v=jVC6SQS23ak) (55 min), overview of material from book
 
