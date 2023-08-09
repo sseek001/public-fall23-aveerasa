@@ -1,9 +1,9 @@
-# ODU CS 625 - Data Visualization, Fall 2023 - M.C. Weigle
+# ODU CS 625 - Data Visualization, Fall 2023
 
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Course Materials on Canvas] (https://canvas.odu.edu/courses/140702)
+* [Course Materials on Canvas](https://canvas.odu.edu/courses/140702)
 * [Topic Objectives](objectives.md)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
   * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
