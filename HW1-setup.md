@@ -34,11 +34,11 @@ Before submitting your report, make sure to view your report file on GitHub to m
 
 Git is a version control system for tracking changes in source code, used in the popular [GitHub](https://github.com) code hosting platform.  
 
-The first step is to create a GitHub account. I recommend a username that incorporates at least part of your actual name (e.g., mine is [weiglemc](https://github.com/weiglemc)). *If you already have a GitHub account, you do not need to create a new one for this class.*
+The first step is to create a GitHub account. I recommend a username that incorporates at least part of your actual name. *If you already have a GitHub account, you do not need to create a new one for this class.*
 
 Next, you need to let me know your GitHub username so that I can create a private repository (repo) for you in our class organization. This private repo will be visible only to you and me, and it's what you'll use to store your homework assignments.  Use [GitHub Issues](https://github.com/features/issues) to let me know your username:
 
-* Open our public class repository, <https://github.com/odu-cs625-datavis/public-fall23-mcw/>
+* Open our public class repository, <https://github.com/odu-cs625-datavis/public-fall23-aveerasa/>
 * Click on the **Issues** tab at the top
 * Create a new issue
 * The title should be your name and your GitHub username.  You should see my example in the list of Issues.
@@ -217,7 +217,7 @@ In the References section in your report, include links to any examples that you
 
 ## Submission
 
-You should be working in the private GitHub repo that I created for you in the [odu-cs625-datavis organization](https://github.com/odu-cs625-datavis/) (your repo URL should look something like https<nolink>://github.com/odu-cs625-datavis/fall23-mcw-*username*/). 
+You should be working in the private GitHub repo that I created for you in the [odu-cs625-datavis organization](https://github.com/odu-cs625-datavis/) (your repo URL should look something like https<nolink>://github.com/odu-cs625-datavis/fall23-asv-*username*/). 
 
 If you are working locally, make sure that you have committed and pushed your local repo, including `HW1-report.md` and any images you reference, to GitHub. 
 
@@ -226,7 +226,7 @@ Submit the URL of your report in Canvas:
 * Click on HW1 under Week 1 in Canvas.
 * Under "Assignment Submission", click the "Write Submission" button.
 * Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/odu-cs625-datavis/fall23-mcw-*username*/blob/main/HW1-report.md
+  * should be something like https<nolink>://github.com/odu-cs625-datavis/fall23-asv-*username*/blob/main/HW1-report.md
 * Make sure to "Submit" your assignment.
 
 If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.
