@@ -1,6 +1,6 @@
 # CS 625, Fall 2023 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs625-datavis/public-fall23-mcw/raw/main/syllabus.pdf)
+[Jump to Summary Schedule](#summary-schedule) | 
 
 Tues/Thurs 11am-12:15pm  | [Batten Arts & Letters (BAL)](https://odu.edu/ts/labs-classrooms/technology-classrooms/bal) 2063
 
