@@ -38,7 +38,7 @@ The first step is to create a GitHub account. I recommend a username that incorp
 
 Next, you need to let me know your GitHub username so that I can create a private repository (repo) for you in our class organization. This private repo will be visible only to you and me, and it's what you'll use to store your homework assignments.  Use [GitHub Issues](https://github.com/features/issues) to let me know your username:
 
-* Open our public class repository, <https://github.com/odu-cs625-datavis/public-fall23-mcw/>
+* Open our public class repository, <https://github.com/odu-cs625-datavis/public-fall23-aveerasa>
 * Click on the **Issues** tab at the top
 * Create a new issue
 * The title should be your name and your GitHub username.  You should see my example in the list of Issues.
