@@ -47,7 +47,7 @@ Good questions may involve data from multiple data sources ([examples](combining
 
 ### Submission
 
-Post the following information in the [Project Milestone 1 - Topic](https://canvas.odu.edu/courses/140707/discussion_topics/657894) Discussion Board:
+Post the following information in the [Project Milestone 1 - Topic][https://canvas.odu.edu/courses/140702/discussion_topics/662807] Discussion Board:
 
 * topic (with link to ChatGPT conversation if you used it to brainstorm)
 * brief statement as to why you're interested in this topic
