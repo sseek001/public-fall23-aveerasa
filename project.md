@@ -47,7 +47,7 @@ Good questions may involve data from multiple data sources ([examples](combining
 
 ### Submission
 
-Post the following information in the [Project Milestone 1 - Topic][https://canvas.odu.edu/courses/140702/discussion_topics/662807] Discussion Board:
+Post the following information in the [Project Milestone 1 - Topic][https://canvas.odu.edu/courses/140702/discussion_topics/662808] Discussion Board:
 
 * topic (with link to ChatGPT conversation if you used it to brainstorm)
 * brief statement as to why you're interested in this topic
@@ -64,7 +64,7 @@ You may end up creating or coding up charts along the way as you go through the 
 
 ### Submission
 
-Post the following information in the [Project Milestone 2 - Sketches](https://canvas.odu.edu/courses/140707/discussion_topics/657895) Discussion Board:
+Post the following information in the [Project Milestone 2 - Sketches](https://canvas.odu.edu/courses/140702/discussion_topics/662808) Discussion Board:
 
 * topic
 * final data source, with URL
@@ -104,7 +104,7 @@ You should be working in the private GitHub repo that was created for you in the
 
 Submit the URL of your report (not the URL of your repo) in Canvas under Semester Project.  *If you make changes to your report after submitting in Canvas, we will use the last commit time in your repo as your assignment submission time.*
 
-Submit the URL of your demo video in the [Project Demo Videos](https://canvas.odu.edu/courses/140707/discussion_topics/643850) Discussion Board.  In your reply, note if the video is publicly available (e.g., via YouTube) or if it requires an ODU login (e.g., ODU Zoom video published via Kaltura or in ODU OneDrive).
+Submit the URL of your demo video in the [Project Demo Videos](https://canvas.odu.edu/courses/140702/discussion_topics/654666) Discussion Board.  In your reply, note if the video is publicly available (e.g., via YouTube) or if it requires an ODU login (e.g., ODU Zoom video published via Kaltura or in ODU OneDrive).
 
 # Appendix
 
